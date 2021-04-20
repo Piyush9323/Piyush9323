@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning ...Machine learning and Big data using Apache hadoop and Computaion model optimization.
 - 👯 I’m looking to collaborate on ... Fuctional Data Analysis and Convolution Nets.
 - 🤔 I’m looking for help with ... Apache Giraph.
-- 💬 Ask me about ... Mathematics,Machine Learning,and Movies.
-- 📫 How to reach me: ...2020pcs1014@iitjammu.ac.in
+- 💬 Ask me about - Mathematics || Machine Learning || Movies.
+- 📫 How to reach me: 2020pcs1014@iitjammu.ac.in
 - ⚡ Fun fact: ... are raerly fun.
 - ☕ In free time - I Write or travel.
 - 🧛 About me -  Explorer + Hard working + perfectionist + critic.
