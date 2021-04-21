@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github! 🐼 Myself Piyush Sharma..
+I'm pursuing a masters from <p><a href="https://iitjammu.ac.in/"> Indian Institute of Technology Jammu (IIT Jammu)</a></p> in Computer Science  and Engineering with specialization in Data Science. 
 <!-- **Piyush9323/Piyush9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on ...data analysis and forecasting for real time data.
