@@ -51,9 +51,8 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
 [![HackerEarth Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@piyush9323)](https://www.hackerearth.com/@piyush9323)
 [![Kaggle Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.kaggle.com/piyushsharma9323)](https://www.kaggle.com/piyushsharma9323)
 
-p align="center">
+<p align="center">
     Show ❤️ by starring repositories you find useful! 
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
-</p>
