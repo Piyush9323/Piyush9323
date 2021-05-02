@@ -1,6 +1,11 @@
 ### Hi there <img src="/gifs/wave.gif" width="30" height="30"> Welcome to my github! 🐼 Myself Piyush Sharma..<img src="/gifs/geek.gif" width="30" height="30">
-I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> Indian Institute of Technology Jammu (IIT Jammu)</a> in Computer Science  and Engineering with specialization in Data Science. 
+I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> [**Indian Institute of Technology Jammu (IIT Jammu)**]</a> in Computer Science  and Engineering with specialization in Data Science. 
 <!-- **Piyush9323/Piyush9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<p align="center">
+<a href="https://sourcerer.io/piyush9323"><img src="https://img.shields.io/badge/Piyush-Sharma-orange.svg" alt=""></a>
+<img src="https://komarev.com/ghpvc/?username=piyush9323" alt="piyush9323" /> 
+</p>
 
 - 🔭 I’m currently working on ...data analysis and forecasting for real time data.
 - 🌱 I’m currently learning ...Machine learning and Big data using Apache hadoop and Computaion model optimization.
