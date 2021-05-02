@@ -47,7 +47,13 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> [**Indian Institu
 [![Linkedin Badge](https://img.shields.io/badge/-piyush-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyushsharma9323/)
 [![Instagram Badge](https://img.shields.io/badge/-@piyush-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pre_def_ammo/)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/piyush9323/practice/)](https://auth.geeksforgeeks.org/user/piyush9323/practice/)
-[![HackerRank Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=Hackerrank&logoColor=violet&link=https://www.hackerrank.com/piyush9323)](https://www.hackerrank.com/piyush9323)
-[![HackerEarth Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@piyush9323)](https://www.hackerearth.com/@piyush9323)
+[![HackerRank Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=Hackerrank&logoColor=violet&link=https://www.hackerrank.com/piyush9323)](https://www.hackerrank.com/piyush9323)
+[![HackerEarth Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@piyush9323)](https://www.hackerearth.com/@piyush9323)
+[![Kaggle Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.kaggle.com/piyushsharma9323)](https://www.kaggle.com/piyushsharma9323)
 
-
+p align="center">
+    Show ❤️ by starring repositories you find useful! 
+    <br />
+    Also, star and fork this repository if you wish to give this new feature a try!
+  </p>
+</p>
