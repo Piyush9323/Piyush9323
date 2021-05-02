@@ -39,8 +39,8 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 **Github Stats:**
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Piyush9323&hide=contribs&show_icons=true&theme=radical"> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush9323&" alt="piyush9323" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Piyush9323&hide=contribs&show_icons=true&theme=radical"> </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush9323&" alt="piyush9323" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -50,6 +50,7 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
 [![HackerRank Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=Hackerrank&logoColor=violet&link=https://www.hackerrank.com/piyush9323)](https://www.hackerrank.com/piyush9323)
 [![HackerEarth Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@piyush9323)](https://www.hackerearth.com/@piyush9323)
 [![Kaggle Badge](https://img.shields.io/badge/-piyush-1c6340?style=flat&logo=hackerearth&logoColor=white&link=https://www.kaggle.com/piyushsharma9323)](https://www.kaggle.com/piyushsharma9323)
+
 
 <p align="center">
     Show ❤️ by starring repositories you find useful! 
