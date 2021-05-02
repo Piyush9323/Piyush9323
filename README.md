@@ -38,13 +38,16 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> [**Indian Institu
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
-
-
 **Github Stats:**
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Piyush9323&hide=contribs&show_icons=true&theme=radical"> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush9323&" alt="piyush9323" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-piyush-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyushsharma9323/)
 [![Instagram Badge](https://img.shields.io/badge/-@piyush-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pre_def_ammo/)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/piyush9323/practice/)](https://auth.geeksforgeeks.org/user/piyush9323/practice/)
+[![HackerRank Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://www.hackerrank.com/piyush9323)
+[![HackerRank Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://www.hackerearth.com/@piyush9323)
+<a href="https://www.hackerearth.com" target="_blank"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" alt="HackerEarth badge"></a>
+
