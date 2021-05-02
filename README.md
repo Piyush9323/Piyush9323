@@ -1,5 +1,5 @@
 ### Hi there <img src="/gifs/wave.gif" width="30" height="30"> Welcome to my github! 🐼 Myself Piyush Sharma..<img src="/gifs/geek.gif" width="30" height="30">
-I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> [**Indian Institute of Technology Jammu (IIT Jammu)**]</a> in Computer Science  and Engineering with specialization in Data Science. 
+I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> [Indian Institute of Technology Jammu (IIT Jammu)]</a> in Computer Science  and Engineering with specialization in Data Science. 
 <!-- **Piyush9323/Piyush9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
