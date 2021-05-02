@@ -15,10 +15,8 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
 - 📫 How to reach me: 2020pcs1014@iitjammu.ac.in
 - ⚡ Fun fact: ... are raerly fun.
 - ☕ In free time - I Write or travel.
-- 🧛 About me -  Explorer + Hard working + perfectionist + critic.
+- 🧛 About me -  Explorer + Hard working + Perfectionist + Humour.
 - 😇 Thoughts - "Don't just be a part of process, improve the process."
-
-
 
 
 &nbsp;
