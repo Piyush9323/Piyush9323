@@ -21,9 +21,3 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/"> Indian Institute 
 [![Linkedin Badge](https://img.shields.io/badge/-piyush-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyushsharma9323/)
 [![Instagram Badge](https://img.shields.io/badge/-@piyush-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pre_def_ammo/)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-piyush9323-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/piyush9323/practice/)](https://auth.geeksforgeeks.org/user/piyush9323/practice/)
-
-  <p align="center">
-    Show ❤️ by starring repositories you find good! 
-    <br />
-    Also, star and fork this repository if you wish to give this new feature a try!
-  </p>
