@@ -10,7 +10,7 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
 - 🔭 I’m currently working on ...data analysis and forecasting for real time data.
 - 🌱 I’m currently learning ...Machine learning and Big data using Apache hadoop and Computaion model optimization.
 - 👯 I’m looking to collaborate on ... Fuctional Data Analysis and Convolution Nets.
-- 🤔 I’m looking for help with ... Apache Giraph.
+- 🤔 I’m looking for help with ... Apache Giraph and SVD with mapreduce.
 - 💬 Ask me about - Mathematics || Machine Learning || Movies.
 - 📫 How to reach me: 2020pcs1014@iitjammu.ac.in
 - ⚡ Fun fact: ... are raerly fun.
