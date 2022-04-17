@@ -7,10 +7,10 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
 <img src="https://komarev.com/ghpvc/?username=piyush9323" alt="piyush9323" /> 
 </p>
 
-- 🔭 I’m currently working on ...data analysis and forecasting for real time data.
-- 🌱 I’m currently learning ...Machine learning and Big data using Apache hadoop and Computaion model optimization.
-- 👯 I’m looking to collaborate on ... Fuctional Data Analysis and Convolution Nets.
-- 🤔 I’m looking for help with ... Apache Giraph and SVD with mapreduce.
+- 🔭 I’m currently working on ... deep multimodel learning.
+- 🌱 I’m currently doing research on .... transformer based architectures for multimodel learning.
+- 👯 I’m looking to collaborate on ... a general architecture for deep learning.
+- 🤔 I’m looking for help with ... efficient architectures for deep learning. 
 - 💬 Ask me about - Mathematics || Machine Learning || Movies.
 - 📫 How to reach me: 2020pcs1014@iitjammu.ac.in
 - ⚡ Fun fact: ... are raerly fun.
