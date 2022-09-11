@@ -1,5 +1,5 @@
 ### Hi there <img src="/gifs/wave.gif" width="30" height="30"> Welcome to my github! 🐼 Myself Piyush Sharma..<img src="/gifs/geek.gif" width="30" height="30">
-I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute of Technology Jammu (IIT Jammu)</a> in Computer Science  and Engineering with specialization in Data Science. 
+I've a masters from <a href="https://iitjammu.ac.in/">Indian Institute of Technology Jammu (IIT Jammu)</a> in Computer Science  and Engineering with specialization in Data Science. 
 <!-- **Piyush9323/Piyush9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
@@ -7,12 +7,12 @@ I'm pursuing a masters from <a href="https://iitjammu.ac.in/">Indian Institute o
 <img src="https://komarev.com/ghpvc/?username=piyush9323" alt="piyush9323" /> 
 </p>
 
-- 🔭 I’m currently working on ... deep multimodel learning.
-- 🌱 I’m currently doing research on .... transformer based architectures for multimodel learning.
-- 👯 I’m looking to collaborate on ... a general architecture for deep learning.
-- 🤔 I’m looking for help with ... efficient architectures for deep learning. 
+- 🔭 I’m currently working on ... BLE Technology.
+- 🌱 I’m currently doing research on .... Multimodel learning.
+- 👯 I’m looking to collaborate on ... Multimodal Deep Learning Research.
+- 🤔 I’m looking for help with ... good resources on BLE Technology. 
 - 💬 Ask me about - Mathematics || Machine Learning || Movies.
-- 📫 How to reach me: 2020pcs1014@iitjammu.ac.in
+- 📫 How to reach me: https://www.linkedin.com/in/piyush9323/
 - ⚡ Fun fact: ... are raerly fun.
 - ☕ In free time - I Write or travel.
 - 🧛 About me -  Explorer + Hard working + Perfectionist + Humour.
