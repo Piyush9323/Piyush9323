@@ -1,5 +1,5 @@
 ### Hi there <img src="/gifs/wave.gif" width="30" height="30"> Welcome to my github! 🐼 Myself Piyush Sharma..<img src="/gifs/geek.gif" width="30" height="30">
-I'm currently working as a Software Engineer at Qualcomm.
+I'm currently working as a Senior Software Engineer at Qualcomm.
 I've a bachelors degree in Electronics and a masters degree in Computer Sciene with specialization in data science.
 I'm alumni of <a href="https://iitjammu.ac.in/">Indian Institute of Technology Jammu (IIT Jammu)</a> and <a href="https://www.ietlucknow.ac.in/">Institute of Engineering & Technology Lucknow (IET Lucknow)</a>
 <!-- **Piyush9323/Piyush9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
